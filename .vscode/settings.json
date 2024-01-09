@@ -1,0 +1,13 @@
+{
+   "cSpell.enableFiletypes": [
+      "dockerfile",
+      "erb",
+      "html.erb",
+      "jsx",
+      "postgres",
+      "ruby",
+      "scss.erb",
+      "sql",
+      "tailwindcss"
+   ]
+}
